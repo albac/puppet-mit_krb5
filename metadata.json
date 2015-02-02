@@ -10,7 +10,7 @@
   "issues_url": "https://github.com/ccin2p3/puppet-mit_krb5/issues",
   "dependencies": [
     { "name": "puppetlabs/concat", "version_requirement": "1.0.x" }, 
-    { "name": "puppetlabs/stdlib", "version_requirement": "3.x" }
+    { "name": "puppetlabs/stdlib", "version_requirement": "4.x" }
   ],
   "tags": [
     "kerberos",
